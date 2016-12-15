@@ -19,6 +19,7 @@ public class BonusTile extends AbstractTile {
 	public void draw(Graphics g,int x, int y){
 		//emptyTile.draw(g,x,y);
 		super.draw(g, x, y);
+		// TODO
 	}
 
 }
